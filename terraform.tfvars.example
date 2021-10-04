@@ -1,0 +1,14 @@
+//Create a file named terraform.tfvars with the correct vales
+
+aws_access_key = "********************"
+aws_secret_key = "****************************************"
+aws_key_pair_key_name = "mln-api-server"
+aws_key_pair_public_key = "ssh-rsa ............"
+ecs_key_pair_name = "mln-api-server"
+aws_account_id =  "89**********"
+service_name = "mln-api-server"
+github_owner = "psfr937"
+github_token = "ghp_************************************"
+github_repo = "ecs-nodejs-app-example"
+github_branch = "master"
+domain_name = "avadove.com"
